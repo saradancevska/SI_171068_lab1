@@ -7,7 +7,7 @@ void printMyName () {
 }
 
 void printMyIndex () {
-	cout<<"171068"
+	cout<<"novoo"
 }
 
 int main () {
